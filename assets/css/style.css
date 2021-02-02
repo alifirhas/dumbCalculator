@@ -1,0 +1,14 @@
+/* :root{
+    --black : #000000;
+    --purple-one : #52057b;
+    --purple-two : #892cdc;
+    --purple-three : #bc6ff1;
+}
+body{
+    background-color: var(--black) !important;
+    color: var(--purple-three) !important;
+}
+
+select::-ms-expand {
+    display: none;
+} */
